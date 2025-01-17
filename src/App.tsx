@@ -4,10 +4,10 @@ import './App.css'
 import Home from './pages/Home'
 import About from './pages/About'
 
-const navigation = [
-  { name: 'Home', href: '/', current: false },
-  { name: 'About', href: '/about', current: false }
-]
+// const navigation = [
+//   { name: 'Home', href: '/', current: false },
+//   { name: 'About', href: '/about', current: false }
+// ]
 
 function App() {
 
